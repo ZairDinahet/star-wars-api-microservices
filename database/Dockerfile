@@ -2,7 +2,7 @@ FROM node:18
 
 WORKDIR /app
 
-ENV MONGO_URI=mongodb+srv://angeldinahet43:root@cluster0.dpmhigp.mongodb.net/star_wars
+COPY .env ./
 
 COPY package*.json ./
 
