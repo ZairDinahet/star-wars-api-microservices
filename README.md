@@ -1,4 +1,4 @@
-# Star Wars API Microservice�🚀
+# Star Wars API Microservice🪐🚀
 
 This project has been created to implement a basic microservices platform.
 
@@ -15,7 +15,7 @@ This project consists of 5 independent applications interconnected via HTTPReque
 This project is containerized using Docker Compose. To run this project you must clone the repository and run docker-compose locally.
 
 ## Diagram
-![alt text](Diagram.png)
+![alt text](diagram.png)
 
 
 ## Endpoints of the Service:
