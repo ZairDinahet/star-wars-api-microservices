@@ -4,7 +4,7 @@ This project has been created to implement a basic microservices platform.
 
 Following the microservices architecture, it provides the functionality to create, find, update, or delete information about StarWars characters, planets, and movies.
 
-It is developed based on the ExpressJS Framework, implements a MongoDB as a persistent information platform and Mongoose as an ORM to send and retrieve information from/to the database.
+It is developed based on the ExpressJS Framework, implements a MongoDB as a persistent information platform and Mongoose as an ODM to send and retrieve information from/to the database.
 
 This project consists of 5 independent applications interconnected via HTTPRequests:
 
